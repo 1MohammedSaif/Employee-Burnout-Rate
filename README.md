@@ -96,14 +96,19 @@ Employee burnout is a significant challenge impacting productivity, retention, a
 
 ![Burn Rate Distribution by Designation](./burnratebydesignation.png)
 1. **Burn Rate Distribution by Designation**
+
 ![Mental Fatigue Score Impact](./mentalfatiguescorebyburnrate.png)
 2. **Mental Fatigue Score Impact**
+
 ![Correlation Heatmap](./heatmap.png)
 3. **Correlation Heatmap**
+
 ![Pairplot Analysis](./pairplot.png)
 4. **Pairplot Analysis**
+
 ![Gender-based Fatigue Comparison](./gender.png)
 5. **Gender-based Fatigue Comparison**
+
 ![Model Performance](./score.png)
 6. **Model Performance**
 
