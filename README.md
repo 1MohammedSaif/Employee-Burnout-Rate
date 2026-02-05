@@ -2,10 +2,6 @@
 
 > Using Machine Learning to identify and predict employee burnout factors within organizations
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-![Status](https://img.shields.io/badge/status-Active-success)
-
 ---
 
 ## 📋 Table of Contents
@@ -94,23 +90,35 @@ Employee burnout is a significant challenge impacting productivity, retention, a
 
 ### Key Findings
 
-![Burn Rate Distribution by Designation](./burnratebydesignation.png)
-1. **Burn Rate Distribution by Designation**
+<figure>
+  <img src="./burnratebydesignation.png" alt="Burn Rate Distribution by Designation">
+  <figcaption align="center"><i><b>Figure 1:</b> Burn Rate Distribution by Designation.</i></figcaption>
+</figure>
 
-![Mental Fatigue Score Impact](./mentalfatiguescorebyburnrate.png)
-2. **Mental Fatigue Score Impact**
+<figure>
+  <img src="./mentalfatiguescorebyburnrate.png" alt="Mental Fatigue Score Impact">
+  <figcaption align="center"><i><b>Figure 2:</b> Correlation between Mental Fatigue Scores and observed Burn Rate.</i></figcaption>
+</figure>
 
-![Correlation Heatmap](./heatmap.png)
-3. **Correlation Heatmap**
+<figure>
+  <img src="./heatmap.png" alt="Correlation Heatmap">
+  <figcaption align="center"><i><b>Figure 3:</b> Feature Correlation Heatmap highlighting key predictors of employee burnout.</i></figcaption>
+</figure>
 
-![Pairplot Analysis](./pairplot.png)
-4. **Pairplot Analysis**
+<figure>
+  <img src="./pairplot.png" alt="Pairplot Analysis">
+  <figcaption align="center"><i><b>Figure 4:</b> Pairplot analysis visualizing the distribution and relationships across the dataset.</i></figcaption>
+</figure>
 
-![Gender-based Fatigue Comparison](./gender.png)
-5. **Gender-based Fatigue Comparison**
+<figure>
+  <img src="./gender.png" alt="Gender-based Fatigue Comparison">
+  <figcaption align="center"><i><b>Figure 5:</b> Comparative analysis of mental fatigue scores categorized by gender.</i></figcaption>
+</figure>
 
-![Model Performance](./score.png)
-6. **Model Performance**
+<figure>
+  <img src="./score.png" alt="Model Performance">
+  <figcaption align="center"><i><b>Figure 6:</b> Final model performance metrics showing the accuracy of the burnout prediction.</i></figcaption>
+</figure>
 
 
 ---
