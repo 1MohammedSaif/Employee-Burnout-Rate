@@ -93,31 +93,37 @@ Employee burnout is a significant challenge impacting productivity, retention, a
 <figure>
   <img src="./burnratebydesignation.png" alt="Burn Rate Distribution by Designation">
   <figcaption align="center"><i><b>Figure 1:</b> Burn Rate Distribution by Designation.</i></figcaption>
+
 </figure>
 
 <figure>
   <img src="./mentalfatiguescorebyburnrate.png" alt="Mental Fatigue Score Impact">
   <figcaption align="center"><i><b>Figure 2:</b> Correlation between Mental Fatigue Scores and observed Burn Rate.</i></figcaption>
+
 </figure>
 
 <figure>
   <img src="./heatmap.png" alt="Correlation Heatmap">
   <figcaption align="center"><i><b>Figure 3:</b> Feature Correlation Heatmap highlighting key predictors of employee burnout.</i></figcaption>
+
 </figure>
 
 <figure>
   <img src="./pairplot.png" alt="Pairplot Analysis">
   <figcaption align="center"><i><b>Figure 4:</b> Pairplot analysis visualizing the distribution and relationships across the dataset.</i></figcaption>
+
 </figure>
 
 <figure>
   <img src="./gender.png" alt="Gender-based Fatigue Comparison">
   <figcaption align="center"><i><b>Figure 5:</b> Comparative analysis of mental fatigue scores categorized by gender.</i></figcaption>
+
 </figure>
 
 <figure>
   <img src="./score.png" alt="Model Performance">
   <figcaption align="center"><i><b>Figure 6:</b> Final model performance metrics showing the accuracy of the burnout prediction.</i></figcaption>
+
 </figure>
 
 
